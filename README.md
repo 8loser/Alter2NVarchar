@@ -7,4 +7,4 @@ Batch change datatype of text and varchar to nvarchar in database
 修改
 >FOR select 'exampleDB' as DBname
 
-exampleDB 改為欲修改 text, varchar 資料型態為 nvarchar 的資料庫名稱
+exampleDB 改為欲替換 text, varchar 資料型態為 nvarchar 的資料庫名稱
